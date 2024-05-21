@@ -1,0 +1,89 @@
+@charset="utf-8";
+
+body{
+      background-image: url(../static/img/fundo.jpg);
+      font-family: sans-serif;
+      text-align: center;
+}
+h1#Titulo{
+      color: black;
+      background-color: none;
+      border-color: black;
+	border-style: dotted;
+	border-width: 2px;
+      margin-left: 400px;
+      margin-right: 400px;
+      padding: 5px;
+}
+h2{
+	color: black;
+      background-color: none;
+      border-color: black;
+	border-style: dashed;
+	border-width: 2px;
+      margin-left: 510px;
+      margin-right: 510px;
+      padding: 5px;
+}
+img{
+      max-width: 500px;
+      width: auto;
+}
+p{
+      color: black;
+      padding: 5px;
+}
+ul{
+      border-color: black;
+      border-style: solid;
+      border-width: 1px;
+      list-style: none;
+      margin-right: 515px;
+      margin-left: 515px;
+      padding: 5px;
+}
+body#Elenco{
+      background-image: url(../static/img/fundo-personagens.jpg);
+      font-family: sans-serif;
+      text-align: center;
+}
+img#Imagemdospersonagens{
+      max-width: 200px;
+      width: auto;
+}
+h1#Titulo2{
+      color: black;
+      background-color: none;
+      border-color: black;
+      border-style: dotted;
+      border-width: 2px;
+      margin-left: 445px;
+      margin-right: 445px;
+      padding: 5px;
+}
+div.Personagens > h2{
+      color: black;
+      background-color: none;
+      border-color: black;
+      border-style: dashed;
+      border-width: 2px;
+      margin-left: 530px;
+      margin-right: 530px;
+      padding: 5px;
+}
+a{
+      color: #cb33ff;
+}
+a#Páginainicial{
+      color: #320b4f;
+}
+a#Páginaelenco{
+      color: #431169;
+}
+footer{
+      background-color: #8120ff;
+      text-align: center;
+      color: black;
+      padding: 10px;
+      margin: 10px;
+}
